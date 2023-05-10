@@ -1,0 +1,2 @@
+# social_media
+THIS IS A SOCIAL MEDIA WEB APP IN DJANGO 
